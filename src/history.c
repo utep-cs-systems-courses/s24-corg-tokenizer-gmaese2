@@ -57,3 +57,4 @@ void free_history(List *list)
   free(cur);
   free(list);
 }
+
